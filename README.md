@@ -10,6 +10,8 @@ why is this so low quality you might ask?
 
 ~~because I like the Minecraft style~~ because I'm too lazy to make this in high quality
 
+yes the hibernate moon looks kinda awful
+
 ![2025-06-30-17:01:43-screenshot](https://github.com/user-attachments/assets/1675dd29-4bd8-42be-83e5-872d463405f3)
 
 Installation
