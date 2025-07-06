@@ -4,7 +4,7 @@ theme for oblogout made with paint in less than 10 minutes
 
 heavily inspired by [bruhensant/Adeos-Cores](https://github.com/bruhensant/Adeos-Oblogout)
 
-the name is not meant to make fun on adeos-cores, rather I didn't come up with a good name
+**the name is not meant to make fun on adeos-cores, rather I didn't come up with a good name**
 
 why is this so low quality you might ask?
 
