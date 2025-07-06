@@ -1,8 +1,8 @@
-Penis-cores oblogout
+# Penis-cores oblogout ![image](https://github.com/user-attachments/assets/beab7b2d-4312-442a-add8-3c56448e5500)
 
 theme for oblogout made with paint in less than 10 minutes
 
-inspired by adeos-cores by bruhensant
+heavily inspired by adeos-cores by bruhensant
 
 the name is not meant to make fun on adeos-cores, rather I didn't come up with a good name
 
